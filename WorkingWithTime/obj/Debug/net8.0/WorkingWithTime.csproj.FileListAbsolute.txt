@@ -1,0 +1,14 @@
+C:\Users\Naz\source\naz-apps-services-net8\Chapter07\WorkingWithTime\bin\Debug\net8.0\WorkingWithTime.exe
+C:\Users\Naz\source\naz-apps-services-net8\Chapter07\WorkingWithTime\bin\Debug\net8.0\WorkingWithTime.deps.json
+C:\Users\Naz\source\naz-apps-services-net8\Chapter07\WorkingWithTime\bin\Debug\net8.0\WorkingWithTime.runtimeconfig.json
+C:\Users\Naz\source\naz-apps-services-net8\Chapter07\WorkingWithTime\bin\Debug\net8.0\WorkingWithTime.dll
+C:\Users\Naz\source\naz-apps-services-net8\Chapter07\WorkingWithTime\bin\Debug\net8.0\WorkingWithTime.pdb
+C:\Users\Naz\source\naz-apps-services-net8\Chapter07\WorkingWithTime\obj\Debug\net8.0\WorkingWithTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naz\source\naz-apps-services-net8\Chapter07\WorkingWithTime\obj\Debug\net8.0\WorkingWithTime.AssemblyInfoInputs.cache
+C:\Users\Naz\source\naz-apps-services-net8\Chapter07\WorkingWithTime\obj\Debug\net8.0\WorkingWithTime.AssemblyInfo.cs
+C:\Users\Naz\source\naz-apps-services-net8\Chapter07\WorkingWithTime\obj\Debug\net8.0\WorkingWithTime.csproj.CoreCompileInputs.cache
+C:\Users\Naz\source\naz-apps-services-net8\Chapter07\WorkingWithTime\obj\Debug\net8.0\WorkingWithTime.dll
+C:\Users\Naz\source\naz-apps-services-net8\Chapter07\WorkingWithTime\obj\Debug\net8.0\refint\WorkingWithTime.dll
+C:\Users\Naz\source\naz-apps-services-net8\Chapter07\WorkingWithTime\obj\Debug\net8.0\WorkingWithTime.pdb
+C:\Users\Naz\source\naz-apps-services-net8\Chapter07\WorkingWithTime\obj\Debug\net8.0\WorkingWithTime.genruntimeconfig.cache
+C:\Users\Naz\source\naz-apps-services-net8\Chapter07\WorkingWithTime\obj\Debug\net8.0\ref\WorkingWithTime.dll
